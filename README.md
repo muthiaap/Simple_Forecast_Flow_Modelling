@@ -48,6 +48,9 @@ Actual vs Predicted price chart (SARIMA & XGBoost).
 Evaluation metrics (RMSE, MAE, R²).
 Next day price movement prediction (up, down, same).
 All artifacts saved in MLflow.
+![WhatsApp Image 2025-08-09 at 23 43 35](https://github.com/user-attachments/assets/be64024b-2da2-4514-9634-a6db60515306)
+![WhatsApp Image 2025-08-09 at 23 44 07](https://github.com/user-attachments/assets/8456d97f-a24e-49ff-a89d-8303ddf67f88)
+![WhatsApp Image 2025-08-09 at 23 42 56](https://github.com/user-attachments/assets/3abbb0e5-0a78-42c2-ae43-574eb3747452)
 
 ## Notes
 Each run trains a new model because stock characteristics differ.
